@@ -1,0 +1,15 @@
+{
+    "cSpell.words": [
+        "cmap",
+        "Convolutional",
+        "dataiter",
+        "figsize",
+        "imshow",
+        "npimg",
+        "preds",
+        "testset",
+        "trainloader",
+        "trainset",
+        "xticks"
+    ]
+}
