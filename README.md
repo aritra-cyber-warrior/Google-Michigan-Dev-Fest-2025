@@ -12,4 +12,6 @@ This session will provide audience with the practical steps needed to move beyon
 This session is inspired from the [PyTorch Intermediate Learning Session](https://docs.pytorch.org/tutorials/intermediate/tensorboard_tutorial.html), from the official PyTorch website, and I have put all the pieces together in a Jupyter Notebook for ease of use and further exploration. 
 
 # References & Citations
-
+1. Data Source: [Fashion-MNIST dataset](https://github.com/zalandoresearch/fashion-mnist/tree/master/data)
+2. PyTorch Intermediate Learning Session: [PyTorch Intermediate Learning Session](https://docs.pytorch.org/tutorials/intermediate/tensorboard_tutorial.html)
+3. CNN Architecture Diagram: [https://www.linkedin.com/pulse/what-convolutional-neural-network-cnn-deep-learning-nafiz-shahriar/] 
