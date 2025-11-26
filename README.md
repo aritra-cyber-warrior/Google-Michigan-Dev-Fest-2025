@@ -11,4 +11,5 @@ We will be using the [Fashion-MNIST dataset](https://github.com/zalandoresearch/
 This session will provide audience with the practical steps needed to move beyond console output, ensuring a clearer and more insightful understanding of model performance and training progression.
 This session is inspired from the [PyTorch Intermediate Learning Session](https://docs.pytorch.org/tutorials/intermediate/tensorboard_tutorial.html), from the official PyTorch website, and I have put all the pieces together in a Jupyter Notebook for ease of use and further exploration. 
 
+# References & Citations
 
